@@ -1,0 +1,14 @@
+{
+    "name": "tuandv/contactform",
+    "description": "Add contact page to your website",
+    "authors": [{
+        "name": "tuandv",
+        "email": "dotuan0601@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tuandv\\Contactform\\": "src/"
+        }
+    }
+}
